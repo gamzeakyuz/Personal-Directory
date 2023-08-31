@@ -8,3 +8,8 @@ Core Data kullanarak kişi bilgilerini kaydedebileceğimiz bir rehber oluşturma
 <img src="https://github.com/gamzeakyuz/Personal-Directory/assets/95036569/937e6cf4-6b2b-44bf-8ca0-3398feed39ef" alt="Details" width="400" height="800">
 <img src="https://github.com/gamzeakyuz/Personal-Directory/assets/95036569/29833464-7ec8-4436-9b73-4ba2f26dcac2" alt="Details" width="400" height="800">
 <img src="https://github.com/gamzeakyuz/Personal-Directory/assets/95036569/a3f29aa6-a36f-478b-bbe1-9eb7e255262c" alt="Details" width="400" height="800">
+
+<img src="https://github.com/gamzeakyuz/Personal-Directory/assets/95036569/90411d9c-94c9-4b29-ba0c-6c7282066d95" alt="Details" width="400" height="800">
+
+<img src="https://github.com/gamzeakyuz/Personal-Directory/assets/95036569/a54c0314-d0ba-4126-821e-96fe3589ea8a" alt="Details" width="400" height="800">
+
